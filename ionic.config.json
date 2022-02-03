@@ -1,0 +1,8 @@
+{
+  "name": "Munchie Helper",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "74da189b"
+}
